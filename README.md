@@ -5,6 +5,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Tomodovodoo-181717?style=flat&logo=github)](https://github.com/Tomodovodoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomodovodoo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tomodovodoo)
 [![Email](https://img.shields.io/badge/Email-tomthegreatest04%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tomthegreatest04@gmail.com)
+[![X](https://img.shields.io/badge/X-@Tomodovodoo-000000?style=flat&logo=x&logoColor=white)](https://x.com/Tomodovodoo)
+[![Codewars](https://img.shields.io/badge/Codewars-Tomodovodoo-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Tomodovodoo)
 
 **BSc Chemistry** (Chemistry of Life) || **Formal Mathematics** in [@leanprover](https://github.com/leanprover-community) || Developing in [@python](https://www.python.org) || **AI/ML Engineer** with a focus on Graph Neural Networks
 
