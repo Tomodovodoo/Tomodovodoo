@@ -28,9 +28,9 @@ For my bachelor's thesis, I built **Graph Neural Networks for NMR prediction**, 
 ## Current Science Work
 
 ### Formal Mathematics
-- Contributing to [@AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) — formalizing the Prime Number Theorem and related results in Lean
-- Using AI-assisted proof tools like Aristotle, ChatGPT, and others to speed up proof development in Lean
-- Working through parts of Project Euler by myself, a project focussing on computational math problems, from late highschool to advanced mathematics.
+- [Contributing](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/issues?q=author%3Atomodovodoo) to [@AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) by formalizing the Prime Number Theorem and related results in Lean
+- Using AI-assisted proof tools like Aristotle, ChatGPT, and others to significantly speed up proof development in Lean.
+- Working through parts of Project Euler by myself, a project focussing on computational math problems/puzzles, with difficulties from late highschool (<20%), beyond calculus (>25%), and graduate mathematics (>60%). Best solve: [#949 Left vs Right II](https://projecteuler.net/problem=949), difficulty 100%, ~42/43rd solve.
 
 ### AI & Research
 - **Graph Neural Networks**: Designed depth-first search routines and custom dataset pipelines for molecular NMR prediction tasks
@@ -41,10 +41,11 @@ For my bachelor's thesis, I built **Graph Neural Networks for NMR prediction**, 
 
 ## Personal Projects
 
-### BaanSoliciteren
+### [BaanSolliciteren](https://github.com/Tomodovodoo/BaanSoliciteren)
 - **Automatic Job Search**: An automatic job finder based on a semi-agentic system.
-- **Automatic Grading**: Grades any job given to it based on similarity to my wanted jobs, pay, and preference
-- **Smart file system**: Automatically updates all job statuses based on a custom gmail-MCP server, and runs several scripts agentically.
+- [**Automatic Job Page Extraction**](https://github.com/Tomodovodoo/BaanSoliciteren/blob/main/scripts/fetch_job_pages.py): Extracts HTML via BeautifulSoup and sorts key details and information into defined [json schemas](https://github.com/Tomodovodoo/BaanSoliciteren/tree/main/config)
+- [**Automatic Grading**](https://github.com/Tomodovodoo/BaanSoliciteren/tree/main/Baan_analyze): Grades any job given to it based on similarity to my wanted jobs, pay, and preference
+- **Smart file system**: Automatically updates all job statuses based on a [custom gmail-MCP server](https://github.com/Tomodovodoo/BaanSoliciteren/blob/main/scripts/fetch_emails.py), and [agentically](https://github.com/Tomodovodoo/BaanSoliciteren/blob/main/.agent/workflows/update_project.md) runs [several scripts](https://github.com/Tomodovodoo/BaanSoliciteren/tree/main/scripts).
 
 ### The Bazaar Framework (Private)
 - **Conversion Scheme**: An in-depth smart conversion scheme to extract game card texts and convert them into fully constructed objects for simulation.
@@ -53,14 +54,18 @@ For my bachelor's thesis, I built **Graph Neural Networks for NMR prediction**, 
 
 ### Data Science & Analysis
 - [**Collection-of-Projects**](https://github.com/Tomodovodoo/Collection-of-Projects): Jupyter notebooks showcasing ~4 years of data analysis projects made in my free time during university
-- **Immigration Data Analysis**: Statistical modeling and visualization of population and migration trends
-- **COVID Spread Modeling**: Simple epidemiological simulations and scenario analysis
-- **Vaccine Risk Analysis**: Data-driven exploration of risk profiles
+- [**Immigration Data Analysis**](https://github.com/Tomodovodoo/Collection-of-Projects/blob/main/Data/Immigratie_stroom_CBS.ipynb): Statistical modeling and visualization of population and migration trends
+- [**COVID Spread Modeling**](https://github.com/Tomodovodoo/Collection-of-Projects/blob/main/Data/Model_VacinationRate_and_Covid_Spreading.ipynb): Simple epidemiological simulations and scenario analysis
+- [**Vaccine Risk Analysis**](https://github.com/Tomodovodoo/Collection-of-Projects/blob/main/Data/Model_VacinationRate_and_Covid_Spreading.ipynb): Data-driven exploration of risk profiles
+- [**Wordle Solver in Java running in Python**](https://github.com/Tomodovodoo/Collection-of-Projects/blob/main/Tools/Wordle_Solver_JAVA_in_Jupyter.ipynb): Experimental project to run Java inside Python to solve Wordle.
+- [**Find similar songs based on playlist**](https://github.com/Tomodovodoo/Collection-of-Projects/blob/main/Tools/Find_similar_songs_from_playlist.ipynb): Used Tunebat API to find songs that are similar to a playlist I wanted to make.
+
 
 ### 🛠️ Software Tools
 - [**Parse_Klik_en_Klaar_logs**](https://github.com/Tomodovodoo/Parse_Klik_en_Klaar_logs): C++ router log parser for network monitoring and analysis based on Wireshark and TCP
 - [**Drinking-game-solver**](https://github.com/Tomodovodoo/Drinking-game-solver): Python-based statistical model for optimizing game strategies for a local drinking game
-- **Speech-to-Script**: Automated transcription and text-processing tooling based on whisper for different file formats
+- [**Speech-to-Script**](https://github.com/Tomodovodoo/Collection-of-Projects/blob/main/Tools/Iphone_recording_to_Text.ipynb): Automated transcription and text-processing tooling based on whisper for different file formats
+- [**Database extraction Delver Lens (MTG)**](https://github.com/Tomodovodoo/Collection-of-Projects/tree/main/MtG): Tool to extract scanned cards from Delver Lens backup to recreate/circumvent a previously paid feature from the app.
 
 ---
 
@@ -105,7 +110,12 @@ For my bachelor's thesis, I built **Graph Neural Networks for NMR prediction**, 
 - Suggested and implemented process improvements and small system optimizations
 - Led user-feedback on chess.com project with active monitoring as moderator
 
+---
 
+## Current dev stack
+- For Project Euler and Codewars: Simple VScode, Notepad, Pen and Paper.
+- For Lean, BaanSolliciteren
+- For Older projects: Google Colab
 ---
 
 ## Get in Touch
