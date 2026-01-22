@@ -45,8 +45,8 @@ For my bachelor's thesis, I built **Graph Neural Networks for NMR prediction**, 
 - **Smart file system**: Automatically updates all job statuses based on a custom gmail-MCP server, and runs several scripts agentically.
 
 ### The Bazaar Framework (Private)
-- **Conversion Scheme**: An in-depth smart conversion scheme to extract card texts and convert them into fully constructed objects for simulation.
-- **Auto battler**: A C++ framework for highly accurate simulation of battle results for the Bazaar.
+- **Conversion Scheme**: An in-depth smart conversion scheme to extract game card texts and convert them into fully constructed objects for simulation.
+- **Auto battler**: A C++ framework for highly accurate simulation of battle results for The Bazaar.
 - **ML modelling**: An in-progress framework to train Neural Networks on playing The Bazaar.
 
 ### Data Science & Analysis
