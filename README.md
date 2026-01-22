@@ -1,5 +1,5 @@
 # Tom de Groot
-<p align="center"><strong>— Looking for work! —</strong></p>
+<p align="center"><strong>— Looking for work! (Data/AI/Chemistry) —</strong></p>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tomodovodoo-181717?style=flat&logo=github)](https://github.com/Tomodovodoo)
