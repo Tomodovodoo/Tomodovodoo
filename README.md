@@ -21,7 +21,7 @@ I'm currently contributing to formal mathematics projects using Lean, working on
 
 For my bachelor's thesis, I built **Graph Neural Networks for NMR prediction**, including reproducible data pipelines and training setups on HPC clusters. Outside of chemistry, I like tackling complex data problems, from immigration statistics and COVID spread modeling to building small automated game solvers, working on Project Euler, and solving competitive programming puzzles on Codewars.
 
-**Languages:** Fluent in Dutch 🇳🇱 and English 🇬🇧
+**Languages:** Fluent in Dutch and English
 
 ---
 
