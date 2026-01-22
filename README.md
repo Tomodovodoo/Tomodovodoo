@@ -30,7 +30,7 @@ For my bachelor's thesis, I built **Graph Neural Networks for NMR prediction**, 
 ### Formal Mathematics
 - [Contributing](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/issues?q=author%3Atomodovodoo) to [@AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) by formalizing the Prime Number Theorem and related results in Lean
 - Using AI-assisted proof tools like Aristotle, ChatGPT, and others to significantly speed up proof development in Lean.
-- Working through parts of Project Euler by myself, a project focussing on computational math problems/puzzles, with difficulties from late highschool (<20%), beyond calculus (>25%), and graduate mathematics (>60%). Best solve: [#949 Left vs Right II](https://projecteuler.net/problem=949), difficulty 100%, ~42/43rd solve.
+- Working through parts of **Project Euler** by myself, a project focussing on computational math problems/puzzles, with difficulties from late highschool (<20%), beyond calculus (>25%), and graduate mathematics (>60%). Best solve: [#949 Left vs Right II](https://projecteuler.net/problem=949), difficulty 100%, ~42/43rd solve.
 
 ### AI & Research
 - **Graph Neural Networks**: Designed depth-first search routines and custom dataset pipelines for molecular NMR prediction tasks
