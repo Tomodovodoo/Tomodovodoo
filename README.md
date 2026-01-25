@@ -61,7 +61,7 @@ For my bachelor's thesis, I built **Graph Neural Networks for NMR prediction**, 
 - [**Find similar songs based on playlist**](https://github.com/Tomodovodoo/Collection-of-Projects/blob/main/Tools/Find_similar_songs_from_playlist.ipynb): Used Tunebat API to find songs that are similar to a playlist I wanted to make.
 
 
-### 🛠️ Software Tools
+### Software Tools
 - [**Parse_Klik_en_Klaar_logs**](https://github.com/Tomodovodoo/Parse_Klik_en_Klaar_logs): C++ router log parser for network monitoring and analysis based on Wireshark and TCP
 - [**Drinking-game-solver**](https://github.com/Tomodovodoo/Drinking-game-solver): Python-based statistical model for optimizing game strategies for a local drinking game
 - [**Speech-to-Script**](https://github.com/Tomodovodoo/Collection-of-Projects/blob/main/Tools/Iphone_recording_to_Text.ipynb): Automated transcription and text-processing tooling based on whisper for different file formats
