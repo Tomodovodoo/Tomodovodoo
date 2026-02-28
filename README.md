@@ -17,8 +17,9 @@ Groningen, The Netherlands
 ## About Me
 
 I graduated from the University of Groningen with a BSc in Chemistry and shifted deeper into mathematics and programming.
-I contribute to formal mathematics in Lean and build practical tools for automation and data analysis.
-My thesis work focused on graph neural networks for NMR prediction, including reproducible data pipelines and HPC training workflows.
+For my Bachelor Thesis, I worked on Evaluating and Optimizing Graph Neural Nets for NMR prediction; Hyperparameter Opts, Data cleaning, and Evals.
+After my graduation, I started to contribute to formal mathematics in Lean and work on Project Euler in my free time.
+I have the only solve of problem 9 in Lean, done fully agentically. [As referenced in Daniel Litt's article](https://www.daniellitt.com/blog/2026/2/20/mathematics-in-the-library-of-babel).
 
 Languages: Dutch and English.
 
@@ -27,14 +28,17 @@ Languages: Dutch and English.
 ## Current Science Work
 
 ### Formal Mathematics
-I contribute to PrimeNumberTheoremAnd in Lean and focus on number theory formalization and proof development.
-I also use Project Euler problems to sharpen computational mathematics skills, including a solve of problem 949.
-Contributions: [PrimeNumberTheoremAnd activity](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/issues?q=author%3Atomodovodoo%20OR%20reviewed-by%3Atomodovodoo).
+I started out by working through Project Euler problems, alongside Codewars to work on programming and mathematics.
+I then realized that instead of puzzles, I wanted to contribute to something, starting on PrimeNumberTheoremAnd in Lean.
+PNT+ Contributions: [PrimeNumberTheoremAnd activity](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/issues?q=author%3Atomodovodoo%20OR%20reviewed-by%3Atomodovodoo).
+During the firstproof challenge, In 4 days I managed to setup a fully autonomous worker, autonomously solved problem 9, and [proved it in Lean in the remaining 3.5 days](https://x.com/Tomodovodoo/status/2021788629270441994).
 
 ### AI & Research
-I built graph neural network pipelines for molecular NMR prediction during my thesis.
-I use PyTorch and TensorFlow for small experiments and model prototyping.
-I maintain data analysis notebooks for statistical modeling and visualization.
+My journey with AI started with early Disco Diffusion images in Google Colabs, then AI Dungeon with GPT-2.
+I've always kept up with the latest developments, AlphaGo, GANs, and during late high school I read most of the important papers to at least familiarize myself with them.
+This ended up becoming useful when RLGym was released, when I created (Bad) rocket league ML bots during uni, combining two hobbies.
+Eventually, I managed to get into the Chem-AI lab of Robert Pollice to perform my thesis, which was specifically to evaluate and optimize an in-house NMR prediction model.
+During which, the only consistent real dataset of shift+shape+multiplicity was created, evaluated, and trained against.
 
 ---
 
@@ -44,9 +48,6 @@ I maintain data analysis notebooks for statistical modeling and visualization.
 This project automates job tracking from vacancy discovery to inbox triage.
 It extracts job pages into JSON schemas, scores roles by fit and preference, and updates application states from Gmail messages.
 
-### The Bazaar Framework (Private)
-A private C++ simulation project for The Bazaar, including card text conversion and battle simulation logic.
-A separate in-progress module explores ML-based play optimization.
 
 ### Data Science & Analysis
 [Collection-of-Projects](https://github.com/Tomodovodoo/Collection-of-Projects) is a notebook archive from my university years.
@@ -58,31 +59,20 @@ These are compact tools built for specific practical tasks.
 
 ---
 
-## Skills & Technologies
-
-Programming languages: Python, Lean, SQL, C++, JavaScript.
-AI/ML frameworks: PyTorch, TensorFlow, Scikit-learn, RDKit.
-Data tools: Pandas, NumPy, Matplotlib, Excel, Jupyter.
-Dev tools: Git, Linux, HPC clusters, Windows debugging, Jira.
-Chemistry tools: SnapGene, PyMol, BLAST, HPLC/LC-MS workflows.
-Specializations: graph neural networks, data pipelines, formal theorem proving, API automation, and statistical modeling.
-
----
-
 ## Experience
 
 Lean Formalization Contributor, Open Source (2025-present). I contribute to Lean projects in number theory and analysis and work on scalable proof tasks.
 Chemistry Research, University of Groningen (2024-2025). I completed a bachelor thesis on NMR prediction with graph neural networks and worked in BSL-2 lab settings.
-Bug Tester and Project Lead, Teamspot (2022-2024). I reported security issues, coordinated Jira tasks, and supported school rollout feedback.
-Support Engineer and Moderator, Odido and Chess.com (2022-2025). I handled troubleshooting, user support, moderation, and process improvements.
+Bug Tester and Project Lead, Teamspot (2022-2024). I worked as a general support, supported school rollout, and bugtested.
+Support Engineer and Proctor, Odido and Chess.com (2022-2025). I handled troubleshooting, user support, moderation, internation event proctoring, and process improvements.
 
 ---
 
 ## Current dev stack
 
 For Project Euler and Codewars, I use VS Code with simple notes and pen-and-paper work.
-For Lean and BaanSolliciteren, I work locally with Git and Python scripts.
-For older notebooks, I still use Google Colab when that is the quickest path.
+For Lean and BaanSolliciteren, I work locally with Git and Python scripts with Codex.
+For older notebooks, I used Google Colab when that was the quickest path.
 
 ---
 
