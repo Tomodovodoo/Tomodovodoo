@@ -9,6 +9,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-Tomodovodoo-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Tomodovodoo)
 
 BSc Chemistry (Chemistry of Life), now focused on formal mathematics in Lean, Python development, and applied AI/ML.
+
 [CV document](https://github.com/Tomodovodoo/BaanSoliciteren/blob/main/SimpleCV/CV.pdf)
 
 Groningen, The Netherlands
