@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/X-@Tomodovodoo-000000?style=flat&logo=x&logoColor=white)](https://x.com/Tomodovodoo)
 [![Codewars](https://img.shields.io/badge/Codewars-Tomodovodoo-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Tomodovodoo)
 
-BSc Chemistry (Chemistry of Life), now focused on formal mathematics in Lean, Python development, and applied AI/ML.
+BSc Chemistry (Chemistry of Life), now focused on formal mathematics in Lean, Python development, and applied AI/ML in Open Source.
 
 [CV document](https://github.com/Tomodovodoo/BaanSoliciteren/blob/main/SimpleCV/CV.pdf)
 
