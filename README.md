@@ -7,7 +7,7 @@
 [![X](https://img.shields.io/badge/X-@Tomodovodoo-000000?style=flat&logo=x&logoColor=white)](https://x.com/Tomodovodoo)
 [![Codewars](https://img.shields.io/badge/Codewars-Tomodovodoo-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Tomodovodoo)
 
-I build AI/data systems, verification automation, and math aficionado.
+I build AI/data systems, verification automation, and I'm a math aficionado.
 My background is a BSc in Chemistry from the University of Groningen, with thesis work on graph neural networks for NMR prediction.
 
 Groningen, The Netherlands. Dutch and English.
